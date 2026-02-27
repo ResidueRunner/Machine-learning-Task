@@ -117,12 +117,4 @@ Machine Learning & Data Science Enthusiast
 
 GitHub: https://github.com/ResidueRunner  
 LinkedIn: www.linkedin.com/in/anurag-yadav-631533159
-
 ---
-
-## ⭐ If you found this repository useful, consider giving it a star!
-
-
-
-## 📂 Repository Structure
-
