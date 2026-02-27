@@ -113,8 +113,6 @@ Evaluation performed using:
 
 **Anurag Yadav**  
 M.Tech Bioinformatics  
-Machine Learning & Data Science Enthusiast  
-
 GitHub: https://github.com/ResidueRunner  
 LinkedIn: www.linkedin.com/in/anurag-yadav-631533159
 ---
