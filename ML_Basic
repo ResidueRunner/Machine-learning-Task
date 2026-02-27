@@ -1,0 +1,84 @@
+# Restaurant Data Analysis - Machine Learning Internship Projects
+
+## 📌 Overview
+This repository contains the complete implementation of three machine learning tasks completed during my Course. The project involves analyzing restaurant data to build predictive models and extract meaningful insights.
+
+## 📊 Dataset
+The dataset contains information about restaurants across multiple countries, including:
+- Restaurant details (name, ID, location)
+- Location information (city, locality, coordinates)
+- Cuisines served
+- Operational details (cost, currency, table booking, online delivery)
+- Ratings and reviews (aggregate rating, votes, rating text)
+- Price range and average cost
+
+## 🎯 Tasks Completed
+
+### Task 1: Restaurant Rating Prediction (Regression)
+**Objective:** Build a regression model to predict restaurant aggregate ratings.
+
+**Key Steps:**
+- Data preprocessing and feature engineering
+- Handling missing values and encoding categorical variables
+- Training multiple regression models:
+  - Linear Regression
+  - Ridge/Lasso Regression
+  - Decision Tree
+  - Random Forest
+  - Gradient Boosting
+- Model evaluation using RMSE, R², and MAE metrics
+- Feature importance analysis
+
+**Results:**
+- Best Model: Random Forest Regressor
+- Test R² Score: [Your score]
+- Test RMSE: [Your value]
+- Most influential features: Votes, Price range, Average cost
+
+### Task 2: Cuisine Classification (Classification)
+**Objective:** Develop a classification model to categorize restaurants based on cuisine types.
+
+**Key Steps:**
+- Processing multi-cuisine data (selecting primary cuisine)
+- Focusing on top 15 cuisine categories
+- Training multiple classifiers:
+  - Logistic Regression
+  - Random Forest
+  - Gradient Boosting
+  - K-Nearest Neighbors
+  - Support Vector Machine
+- Performance evaluation using accuracy, precision, recall, and F1-score
+- Per-class performance analysis
+
+**Results:**
+- Best Model: Random Forest Classifier
+- Test Accuracy: [Your value]
+- Test F1-Score: [Your value]
+- Best performing cuisines: [List top 3-5 cuisines]
+
+### Task 3: Location-based Analysis (Geographical Analysis)
+**Objective:** Perform geographical analysis of restaurant distribution and characteristics.
+
+**Key Steps:**
+- Interactive map visualization using Folium
+- Restaurant density heatmaps
+- Rating distribution by location
+- City-wise statistical analysis
+- Cuisine distribution across top cities
+- Price range analysis by location
+- DBSCAN clustering for restaurant concentration identification
+
+**Key Insights:**
+- Top cities by restaurant count: [List top cities]
+- Highest rated cities: [List top cities]
+- Most expensive cities: [List top cities]
+- Cuisine preferences vary significantly by location
+
+## 🛠️ Technologies Used
+- **Python 3.8+**
+- **Data Manipulation:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Plotly, Folium
+- **Machine Learning:** Scikit-learn
+- **Geospatial Analysis:** Geopandas, Shapely
+- **Development Environment:** Jupyter Notebook
+
