@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Internship Task
+# 🤖 Machine Learning Task
 
 ## 📌 Project Overview
 This repository contains the solution to a Machine Learning internship assignment.  
