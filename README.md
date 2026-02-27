@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Task
+# Machine Learning Task
 
 ## 📌 Project Overview
 This repository contains the solution to a Machine Learning internship assignment.  
@@ -8,7 +8,7 @@ The project demonstrates a complete end-to-end machine learning workflow includi
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform data preprocessing and cleaning
 - Handle missing values and outliers
@@ -19,7 +19,7 @@ The project demonstrates a complete end-to-end machine learning workflow includi
 
 ---
 
-## 🛠 Technologies & Libraries Used
+## Technologies & Libraries Used
 
 - Python 3.x
 - NumPy
@@ -28,7 +28,7 @@ The project demonstrates a complete end-to-end machine learning workflow includi
 - Seaborn
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Collection
 - Imported dataset using Pandas
@@ -47,7 +47,7 @@ The project demonstrates a complete end-to-end machine learning workflow includi
 
 ### 4️⃣ Model Building
 - Selected appropriate machine learning algorithm(s)
-- Split dataset into training and testing sets
+- Split the dataset into training and testing sets
 - Trained model using Scikit-learn
 
 ### 5️⃣ Model Evaluation
@@ -66,17 +66,17 @@ Evaluation performed using:
 
 ---
 
-## 📊 Key Learning Outcomes
+##  Key Learning Outcomes
 
 - End-to-end machine learning pipeline implementation
 - Data cleaning and transformation techniques
 - Model performance evaluation and interpretation
-- Practical application of Scikit-learn library
+- Practical application of the Scikit-learn library
 - Data visualization best practices
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### Clone the repository
 
@@ -88,7 +88,7 @@ Evaluation performed using:
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 
 - Data preprocessing
 - Feature engineering
@@ -99,7 +99,7 @@ Evaluation performed using:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning
 - Cross-validation
@@ -109,7 +109,7 @@ Evaluation performed using:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Anurag Yadav**  
 M.Tech Bioinformatics  
